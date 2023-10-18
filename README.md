@@ -14,6 +14,7 @@ This Python script provides a graphical user interface (GUI) for manually tuning
 6. **DNN Hyperparameter Tuning**: Manually set hyperparameters for a DNN, including the number of layers, units per layer, and activation functions.
 7. **Model Evaluation**: Train the DNN model and evaluate its performance on both training and test sets.
 8. **Results Visualization**: Display the evaluation metrics using Treeview widgets for clear tabular representation.
+![image](https://github.com/JeroenKreuk/gui_dnn_manual_tuner/assets/85551796/f71d7f0a-763a-48fb-a77e-86975de54acc)
 
 ## Dependencies
 
