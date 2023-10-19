@@ -1,7 +1,5 @@
 # DNN Manual Tuner GUI
 
-## Overview
-
 This Python script provides a graphical user interface (GUI) for manually tuning hyperparameters of a Deep Neural Network (DNN) using the Tkinter library. The application enables the user to perform various preprocessing steps, feature selection, and model evaluation.
 
 ## Features
